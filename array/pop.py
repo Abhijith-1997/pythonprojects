@@ -1,0 +1,6 @@
+lst=[1,2,3,4,5]
+# lst.pop(2)
+# print(lst)
+
+lst.pop()
+print(lst)
